@@ -1,0 +1,18 @@
+.roboto-font {
+    font-family: 'Roboto', sans-serif;
+}
+.open-font {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+.bg-1{
+    background-color: rgb(6, 20, 80);
+    /* background-color: #1d3557; */
+}
+body{
+    background-color: #ffffff00;
+    /* background-color: #fafafa; */
+}
+.product {
+    margin: 0 10px 0 10px;
+}
